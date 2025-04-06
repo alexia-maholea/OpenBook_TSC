@@ -182,7 +182,7 @@ cat mai lizibil.
 - Am realizat planurile de masa cu semnalul GND atatp e top, cat si pe bottom. Am
 aplicat via stitching si am amplasat vias-urile langa antena.
 
-- M-am folosit de autorouting pentru a traseele de rutare. Am respectat cerintele de pe ocw, in legatura cu dimensiunea firelor de cupru, respectiv minim 0.30mm pentru traseele de putere si 0.15 pentru restul.
+- M-am folosit de autorouting pentru traseele de rutare. Am respectat cerintele de pe ocw, in legatura cu dimensiunea firelor de cupru, respectiv minim 0.30mm pentru traseele de putere si 0.15 pentru restul.
 
 - TP-urile au fost amplasate dupa cum am considerat ca ar fi mai eficient pentru rutare
 pentru a fi aproape de componentele la care sunt conectate
