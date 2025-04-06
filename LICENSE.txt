@@ -1,0 +1,46 @@
+                                   Apache License
+                             Version 2.0, January 2004
+                          http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+   "License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+   "Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+   "You" (or "Your") shall mean an individual or legal entity exercising permissions granted by this License.
+   "Source" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation, and configuration files.
+   "Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+   "Work" shall mean the work of authorship, whether in Source or Object form, made available under the License.
+   "Derivative Works" shall mean any work that is based on the Work and has been modified, transformed, or adapted in any way.
+   "Contribution" shall mean any work of authorship that is submitted to the Licensor for inclusion in the Work.
+   "Contributor" shall mean any entity or individual who submits a Contribution.
+
+2. Grant of Copyright License.
+   Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute the Work and such derivative works.
+
+3. Grant of Patent License.
+   Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, use, sell, offer for sale, import, and otherwise transfer the Work, where such license applies only to those patent claims of the Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work.
+
+4. Redistribution.
+   You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that you meet the following conditions:
+   (a) You must give any other recipients of the Work or Derivative Works a copy of this License; and
+   (b) You must cause any modified files to carry prominent notices stating that You changed the files; and
+   (c) You must not use the names, trademarks, or other identifiers of the Licensor, except as provided in Section 6.
+
+5. Submission of Contributions.
+   If you submit a Contribution to the Licensor, you grant the Licensor a license to use, modify, and distribute your Contribution under the terms of this License.
+
+6. Trademarks.
+   This License does not grant you any rights to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for describing the origin of the Work.
+
+7. No Warranty.
+   The Work is licensed on an "AS IS" basis, without warranties or conditions of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+8. Limitation of Liability.
+   In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, shall any Contributor be liable to You for any indirect, special, incidental, or consequential damages of any character arising as a result of this License or the use of the Work, even if such Contributor has been advised of the possibility of such damages.
+
+9. Accepting the License.
+   By using, reproducing, or distributing the Work, you accept and agree to be bound by the terms of this License.
+
+END OF TERMS AND CONDITIONS
+
