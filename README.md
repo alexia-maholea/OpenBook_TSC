@@ -36,13 +36,11 @@ Maholea Elena-Alexia, 333CD
 |MAX17048G+T10                                  | [Check Price](https://www.snapeda.com/parts/MAX17048G+T10/Analog+Devices/view-part/?ref=eda)         | [DataSheet](https://www.snapeda.com/parts/MAX17048G+T10/Analog+Devices/view-part/?ref=eda)       |
 |ESP32_WROVER_SPARKFUN-IC-POWER_MCP73831        | #N/A         | #N/A       |
 
-#### Nu am adaugat pentru toate componentele link, pentru cele care erau la fel am pus doar pentru prima.
-
 ## Descriere a functionalitatii componentelor hardware
 
 OpenBook E-Reader este un dispozitiv portabil bazat pe ESP32-C3 WROOM, dotat cu un display e-ink de 1.5” (200x200 px) și alimentat de o baterie Li-Po. Proiectul optimizează consumul energetic și permite citirea cărților stocate pe card SD.
 
-## Componente și interfețe
+# Componente și interfețe
 
 ## Alimentare si Baterie
 
